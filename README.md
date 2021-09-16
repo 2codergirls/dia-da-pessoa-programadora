@@ -1,6 +1,6 @@
 # Dia da Pessoa Programadora
 
-Esse código em Python exibe um texto desejando parabéns as pessoas programadoras que esxecutarem o código. A saída de texto é exibida como se o texto estivesse sendo digitado.
+Esse código em Python exibe um texto desejando parabéns as pessoas programadoras que executarem o código. A saída de texto é exibida como se o texto estivesse sendo digitado.
 
 
 ```
